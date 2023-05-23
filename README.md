@@ -3,6 +3,7 @@
 Project Title:Arduino Based Power Saving In Industrial Loads
 
 Project Started:March 2022
+
 Project Completed:June 2022
 
 Project Description:Associated with the Department Of Electrical And Electronics Engineering (EEE) from Velammal College Of Engineering And Technology (VCET).
